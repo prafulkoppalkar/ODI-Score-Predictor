@@ -1,4 +1,4 @@
-# odi_score_predictor
+# ODI Score Predictor
 I have used a dataset of all the odi cricket matches played till now from espn cricket info
 dataset: odi.csv
 
